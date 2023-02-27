@@ -13,7 +13,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%" border="none">
+<table border="none"><tr border="none"><td valign="top" width="50%" border="none">
 
 - 🔭 I’m currently working with my previous projects and trying to improve them  
   
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I use combination "alt + num 3 +num 9" in order to create apostrophe  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" border="none">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table border="none"><tr border="none"><td valign="top" width="50%" border="none">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon7422&hide_border=true&layout=compact" align="left" />
 
