@@ -7,12 +7,12 @@
 <a href="https://linkedin.com/in/yurii-kurdyban" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
+## About me 
   
 
-<br/>  
 
 
-## Rapidfire  
 <table border-top-width="0"><tr border="none"><td valign="top" width="50%" border="none">
 
 - 🔭 I’m currently working with my previous projects and trying to improve them  
