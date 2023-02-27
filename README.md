@@ -86,23 +86,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon7422&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
