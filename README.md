@@ -13,7 +13,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border="none">
 
 - 🔭 I’m currently working with my previous projects and trying to improve them  
   
