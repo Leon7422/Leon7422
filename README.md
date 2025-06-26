@@ -39,11 +39,14 @@
   <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="margin: 10px"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" style="margin: 10px"/>
-  </a>
   <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
     <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" alt="Sql" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" style="margin: 10px"/>
   </a>
 </p>
   
