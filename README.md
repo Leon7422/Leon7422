@@ -29,9 +29,24 @@
 
 
 ## Languages and Tools  
-<div align="center">  
-[![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png)](https://en.wikipedia.org/wiki/Microsoft_Excel)  
-</div>  
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/VBA_Logo.png" alt="VBA" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" style="margin: 10px"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tableau_Logo.png" alt="Tableau" height="50" style="margin: 10px"/>
+  </a>
+</p>
+  
 
 <br/>  
 
