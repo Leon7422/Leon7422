@@ -1,13 +1,5 @@
-## Hey 👋, I'm Yurii, a future  full-stack developer 👨‍💻 from Ukraine  
+## Hey 👋, I'm Yurii, a future  Data Analyst 👨‍💻 from Ukraine  
   
-
-<a href="https://github.com/Leon7422" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yurii-kurdyban" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
 ## About me 
   
 
@@ -15,13 +7,10 @@
 
 <table border-top-width="0"><tr border="none"><td valign="top" width="50%" border="none">
 
-- 🔭 I’m currently working with my previous projects and trying to improve them  
+- 🔭 I’m currently studying
   
-
-- 🌱 I’m currently learning TypeScript  
   
-
-- ⏳Now i'm looking for a full time position in the software company as full stack developer  
+- ⏳Now i'm looking for a full time position as Data Analyst
   
 
 - ⚡ Fun fact: I use combination "alt + num 3 +num 9" in order to create apostrophe  
