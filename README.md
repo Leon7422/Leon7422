@@ -1,4 +1,4 @@
-## Hey 👋, I'm Yurii, a future  Data Analyst 👨‍💻 from Ukraine  
+## Hey, I'm Yurii, a future  Data Analyst from Ukraine  👋👨‍💻
   
 ## About me 
   
