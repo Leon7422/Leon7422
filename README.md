@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" style="margin: 10px"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Tableau_Software" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Tableau_Logo.png" alt="Tableau" height="50" style="margin: 10px"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" height="50" style="margin: 10px"/>
   </a>
 </p>
   
