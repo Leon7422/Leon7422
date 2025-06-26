@@ -28,7 +28,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Tools I commonly use: 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2021/01/30/12/15/excel-5963669_1280.png" alt="Excel" height="50" style="margin: 10px"/>
