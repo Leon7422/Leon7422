@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" style="margin: 10px"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/VBA_Logo.png" alt="VBA" height="50" style="margin: 10px"/>
+    <img src="https://logodix.com/logo/700926.png" alt="VBA" height="50" style="margin: 10px"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50" style="margin: 10px"/>
