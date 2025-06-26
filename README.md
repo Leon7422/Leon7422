@@ -30,7 +30,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="50" /></a>  
+[![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png)](https://en.wikipedia.org/wiki/Microsoft_Excel)  
 </div>  
 
 <br/>  
