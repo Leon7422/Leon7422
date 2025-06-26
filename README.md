@@ -19,7 +19,7 @@
 </td><td valign="top" width="50%" border="none">
 
 <div align="center">
-<img src="https://gifdb.com/images/high/garfield-hi-there-greetings-brbfi0t9qovtvj04.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/high/garfield-hi-there-greetings-brbfi0t9qovtvj04.gif" align="center" height="100" style="width: 100%" />
 </div>  
 
 
