@@ -1,4 +1,4 @@
-## Hey, I'm Yurii, a future  Data Analyst from Ukraine  👋👨‍💻
+## Hey, I'm Yurii, Analyst from Ukraine  👋👨‍💻
   
 ## About me 
   
@@ -7,10 +7,10 @@
 
 <table border-top-width="0"><tr border="none"><td valign="top" width="50%" border="none">
 
-- 🔭 I’m currently studying
+- 🔭 I’m currently studying Data Analytics
   
   
-- ⏳Now i'm looking for a full time position as Data Analyst
+- ⏳I’m currently working as an Analyst at STV Group
   
 
 - ⚡ Fun fact: I use combination "alt + num 3 +num 9" in order to create apostrophe  
