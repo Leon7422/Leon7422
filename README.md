@@ -7,10 +7,10 @@
 
 <table border-top-width="0"><tr border="none"><td valign="top" width="50%" border="none">
 
-- 🔭 I’m currently studying Data Analytics
+- 🔭 My name is Yurii
   
   
-- ⏳I’m currently working as an Analyst at STV Group
+- ⏳I’m currently working as an Financial manager at Tomatina (Before STV Group)
   
 
 - ⚡ Fun fact: I use combination "alt + num 3 +num 9" in order to create apostrophe  
